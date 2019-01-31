@@ -1,2 +1,2 @@
 # pattern
-Springboot  strategy + factory pattern
+Springboot  strategy + factory pattern demo
